@@ -19,7 +19,7 @@
 </p>
 
 ---
-![Snake animation](https://raw.githubusercontent.com/{Cherry2403}/{Cherry2403}/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Cherry2403/Cherry2403/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## About Me
