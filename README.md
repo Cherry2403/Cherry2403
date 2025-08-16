@@ -1,12 +1,6 @@
 <h1 align="center">Welcome to Diep[Cherry] GitHub!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=400&color=F75C7E&center=true&vCenter=true&width=440&lines=Live a worthy hour;because;you might die in the next one" alt="Typing SVG" />
-</p>
-
----
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cherry2403&theme=radical" />
 </p>
 
@@ -30,7 +24,7 @@
 
 ---
 
-## Tech Tools I have learnt
+## Tech tools I have learnt
 
 <p align="center">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
@@ -58,11 +52,8 @@
 ## Connect With Me
 
 <p align="center">
-  <a href="mailto:cherry2403@devmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:dieppn05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Cherry2403"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ngoc-diep-pham-cherry/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
----
-
-<p align="center">
-  <b>“Code is my canvas. Creativity
