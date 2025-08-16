@@ -13,7 +13,7 @@
 </p>
 
 ---
-![Snake animation](https://github.com/Cherry2403/Cherry2403/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Cherry2403/Cherry2403/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## About Me
