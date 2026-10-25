@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Diep[Cherry] GitHub!</h1>
+<h1 align="center">Welcome to Stella's GitHub!</h1>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cherry2403&theme=radical" />
